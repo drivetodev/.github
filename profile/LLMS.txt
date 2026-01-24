@@ -12,7 +12,7 @@ Zprostředkováváme operativní leasing vozidel od všech značek a leasingový
 - Contact Email: info@driveto.cz
 - Contact Phone: +420790285631
 - Address: Jankovcova 1569/2c, Holešovice, 170 00 Praha 7
-- Updated At: 2026-01-23T00:02:26.072Z
+- Updated At: 2026-01-24T00:02:23.663Z
 
 ## Naše služby
 
@@ -2117,6 +2117,156 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/audi-q6-s-line-elektro-285kw-elektrina-4x4-automaticka-prevodovka?variant=57757744759133)
     Availability: Available
     Price: 26 074,00 Kč CZK
+- [Škoda Kodiaq Exclusive Selection 2.0 TDI 142 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2): Jedná se o druhou generaci Kodiaqu, která světlo světa spatřila roku 2024. Změn se zde odehrálo opravdu mnoho, což je na první pohled znát. Design působí modernějším a mohutnějším dojmem. Přední přísný výraz formují LED světlomety a široká maska s chromovým dekorem. Pocit robustnosti navozují vytažené blatníky a zadní části dominují propojená světla s charakteristickým tvarem ve tvaru písmene C. Interiér je oblast, která byla pozměněna nejvíc. Za zmínku rozhodně stojí pohodlná sedadla a výborná pozice za volantem. Potěší také kvalitní materiály, bohatá výbava, snadné ovládání a veliká obrazovka zábavního systému. Odkládacích prostorů je zde stále velké množství a celkově je vnitřní prostor na špičkové úrovni. Narostl i objem zavazadlového prostoru (+ 75 litrů) na aktuálních 910 litrů. To je mimochodem více, než nabízí největší SUV od Audi - model Q7. Nový je i podvozek, který poskytuje vozu ještě lepší komfort a jízdní vlastnosti. Potěší i klasický dieselový motor s automatickou převodovkou a pohonem všech kol. Všechny tyto atributy z nového Kodiaqu druhé generace dělají prvotřídní SUV, které se brzy stane novým českým ideálem. Tento kousek navíc nabízí i tažné zařízení.
+  Updated: 2026-01-23T20:17:28Z
+  Vendor: Driveto
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto1_76dd5f7f-e2ad-45bb-af79-6a152d6edab9.webp?v=1761733125
+  - [10000 km / 36 měsíců / Zlatá Bronx metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457099613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto6.webp?v=1761733125
+    Price: 10 973,00 Kč CZK
+  - [10000 km / 36 měsíců / Šedá Graphite metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457165149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto7.webp?v=1761733125
+    Price: 10 973,00 Kč CZK
+  - [10000 km / 36 měsíců / Bílá Moon](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58121393111389)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto8.webp?v=1761733124
+    Price: 10 973,00 Kč CZK
+  - [10000 km / 36 měsíců / Černá Magic metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=63186413748573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto1_76dd5f7f-e2ad-45bb-af79-6a152d6edab9.webp?v=1761733125
+    Price: 10 973,00 Kč CZK
+  - [15000 km / 36 měsíců / Zlatá Bronx metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457197917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto6.webp?v=1761733125
+    Price: 11 154,00 Kč CZK
+  - [15000 km / 36 měsíců / Šedá Graphite metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457263453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto7.webp?v=1761733125
+    Price: 11 154,00 Kč CZK
+  - [15000 km / 36 měsíců / Bílá Moon](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58121393144157)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto8.webp?v=1761733124
+    Price: 11 154,00 Kč CZK
+  - [15000 km / 36 měsíců / Černá Magic metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=63186413781341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto1_76dd5f7f-e2ad-45bb-af79-6a152d6edab9.webp?v=1761733125
+    Price: 11 154,00 Kč CZK
+  - [20000 km / 36 měsíců / Zlatá Bronx metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457296221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto6.webp?v=1761733125
+    Price: 11 941,00 Kč CZK
+  - [20000 km / 36 měsíců / Šedá Graphite metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457361757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto7.webp?v=1761733125
+    Price: 11 941,00 Kč CZK
+  - [20000 km / 36 měsíců / Bílá Moon](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58121393176925)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto8.webp?v=1761733124
+    Price: 11 941,00 Kč CZK
+  - [20000 km / 36 měsíců / Černá Magic metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=63186413814109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto1_76dd5f7f-e2ad-45bb-af79-6a152d6edab9.webp?v=1761733125
+    Price: 11 941,00 Kč CZK
+  - [25000 km / 36 měsíců / Zlatá Bronx metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457394525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto6.webp?v=1761733125
+    Price: 12 605,00 Kč CZK
+  - [25000 km / 36 měsíců / Šedá Graphite metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457460061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto7.webp?v=1761733125
+    Price: 12 605,00 Kč CZK
+  - [25000 km / 36 měsíců / Bílá Moon](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58121393209693)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto8.webp?v=1761733124
+    Price: 12 605,00 Kč CZK
+  - [25000 km / 36 měsíců / Černá Magic metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=63186413846877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto1_76dd5f7f-e2ad-45bb-af79-6a152d6edab9.webp?v=1761733125
+    Price: 12 605,00 Kč CZK
+  - [30000 km / 36 měsíců / Zlatá Bronx metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457492829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto6.webp?v=1761733125
+    Price: 13 654,00 Kč CZK
+  - [30000 km / 36 měsíců / Šedá Graphite metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457558365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto7.webp?v=1761733125
+    Price: 13 654,00 Kč CZK
+  - [30000 km / 36 měsíců / Bílá Moon](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58121393242461)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto8.webp?v=1761733124
+    Price: 13 654,00 Kč CZK
+  - [30000 km / 36 měsíců / Černá Magic metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=63186413879645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto1_76dd5f7f-e2ad-45bb-af79-6a152d6edab9.webp?v=1761733125
+    Price: 13 654,00 Kč CZK
+  - [35000 km / 36 měsíců / Zlatá Bronx metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457591133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto6.webp?v=1761733125
+    Price: 14 425,00 Kč CZK
+  - [35000 km / 36 měsíců / Šedá Graphite metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457656669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto7.webp?v=1761733125
+    Price: 14 425,00 Kč CZK
+  - [35000 km / 36 měsíců / Bílá Moon](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58121393275229)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto8.webp?v=1761733124
+    Price: 14 425,00 Kč CZK
+  - [35000 km / 36 měsíců / Černá Magic metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=63186413912413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto1_76dd5f7f-e2ad-45bb-af79-6a152d6edab9.webp?v=1761733125
+    Price: 14 425,00 Kč CZK
+  - [40000 km / 36 měsíců / Zlatá Bronx metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457689437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto6.webp?v=1761733125
+    Price: 15 260,00 Kč CZK
+  - [40000 km / 36 měsíců / Šedá Graphite metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457754973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto7.webp?v=1761733125
+    Price: 15 260,00 Kč CZK
+  - [40000 km / 36 měsíců / Bílá Moon](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58121393307997)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto8.webp?v=1761733124
+    Price: 15 260,00 Kč CZK
+  - [40000 km / 36 měsíců / Černá Magic metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=63186413945181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto1_76dd5f7f-e2ad-45bb-af79-6a152d6edab9.webp?v=1761733125
+    Price: 15 260,00 Kč CZK
+  - [45000 km / 36 měsíců / Zlatá Bronx metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457787741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto6.webp?v=1761733125
+    Price: 15 854,00 Kč CZK
+  - [45000 km / 36 měsíců / Šedá Graphite metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457853277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto7.webp?v=1761733125
+    Price: 15 854,00 Kč CZK
+  - [45000 km / 36 měsíců / Bílá Moon](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58121393340765)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto8.webp?v=1761733124
+    Price: 15 854,00 Kč CZK
+  - [45000 km / 36 měsíců / Černá Magic metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=63186413977949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto1_76dd5f7f-e2ad-45bb-af79-6a152d6edab9.webp?v=1761733125
+    Price: 15 854,00 Kč CZK
+  - [50000 km / 36 měsíců / Zlatá Bronx metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457886045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto6.webp?v=1761733125
+    Price: 16 632,00 Kč CZK
+  - [50000 km / 36 měsíců / Šedá Graphite metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457951581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto7.webp?v=1761733125
+    Price: 16 632,00 Kč CZK
+  - [50000 km / 36 měsíců / Bílá Moon](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58121393373533)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto8.webp?v=1761733124
+    Price: 16 632,00 Kč CZK
+  - [50000 km / 36 měsíců / Černá Magic metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=63186414010717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto1_76dd5f7f-e2ad-45bb-af79-6a152d6edab9.webp?v=1761733125
+    Price: 16 632,00 Kč CZK
 - [Renault Master Extra EV87 105 kW Elektřina Automatická převodovka](https://www.driveto.cz/products/renault-master-extra-ev87-105kw-elektrina-automaticka-prevodovka): Renault Master ve verzi EV87 long range je elektrická varianta oblíbené dodávky, ideální pro městskou logistiku. S elektromotorem o výkonu 140 k (103 kW) a baterií o kapacitě 87 kWh nabízí dojezd až 200 km na jedno nabití. Maximální nabíjecí výkon dosahuje 50 kW, což umožňuje nabití z 20 % na 80 % za přibližně 2 hodiny. Prostorný nákladový prostor a tichý provoz činí z tohoto modelu ideálního partnera pro ekologickou přepravu zboží ve městě.
   Updated: 2026-01-13T16:20:44Z
   Vendor: Driveto
@@ -3480,16 +3630,16 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
 ## Collections
 
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/operativni-leasing): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2026-01-22T23:14:21Z
-  Total Products: 210
+  Updated: 2026-01-23T20:10:11Z
+  Total Products: 211
 - [Operativní leasing Škoda | Driveto.cz](https://www.driveto.cz/collections/skoda): Operativní leasing Škoda pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-01-22T12:20:01Z
-  Total Products: 74
+  Updated: 2026-01-23T20:10:11Z
+  Total Products: 75
 - [Elektromobily na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/elektromobily): Elektromobily na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-01-21T12:19:55Z
+  Updated: 2026-01-23T12:19:53Z
   Total Products: 16
 - [Skladové vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/skladove-vozy): Skladové vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-01-22T12:27:36Z
+  Updated: 2026-01-23T12:19:53Z
   Total Products: 66
 - [Operativní leasing Tesla | Driveto.cz](https://www.driveto.cz/collections/tesla): Operativní leasing Tesla pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2026-01-13T16:20:10Z
@@ -3513,7 +3663,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2026-01-13T16:20:10Z
   Total Products: 0
 - [Operativní leasing Cupra | Driveto.cz](https://www.driveto.cz/collections/cupra): Operativní leasing Cupra pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-01-22T12:20:01Z
+  Updated: 2026-01-23T12:19:53Z
   Total Products: 15
 - [Operativní leasing Nissan | Driveto.cz](https://www.driveto.cz/collections/nissan): Operativní leasing Nissan pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2026-01-22T12:27:36Z
@@ -3522,22 +3672,22 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2026-01-13T16:20:10Z
   Total Products: 0
 - [Operativní leasing Seat | Driveto.cz](https://www.driveto.cz/collections/seat): Operativní leasing Seat pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-01-22T12:20:01Z
+  Updated: 2026-01-23T12:19:53Z
   Total Products: 4
 - [Operativní leasing Toyota | Driveto.cz](https://www.driveto.cz/collections/toyota): Operativní leasing Toyota pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-01-22T12:20:01Z
+  Updated: 2026-01-23T12:19:53Z
   Total Products: 1
 - [Operativní leasing Volvo | Driveto.cz](https://www.driveto.cz/collections/volvo): Operativní leasing Volvo pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-01-22T12:20:01Z
+  Updated: 2026-01-23T12:19:53Z
   Total Products: 24
 - [Operativní leasing Audi | Driveto.cz](https://www.driveto.cz/collections/audi): Operativní leasing Audi pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-01-22T12:20:01Z
+  Updated: 2026-01-23T12:19:53Z
   Total Products: 23
 - [Operativní leasing Peugeot | Driveto.cz](https://www.driveto.cz/collections/peugeot): Operativní leasing Peugeot pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2026-01-16T12:20:23Z
   Total Products: 2
 - [Operativní leasing Hyundai | Driveto.cz](https://www.driveto.cz/collections/hyundai): Operativní leasing Hyundai pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-01-22T12:20:01Z
+  Updated: 2026-01-23T12:19:53Z
   Total Products: 4
 - [Operativní leasing Kia | Driveto.cz](https://www.driveto.cz/collections/kia): Operativní leasing Kia pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2026-01-21T12:19:55Z
@@ -3546,7 +3696,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2026-01-22T23:14:21Z
   Total Products: 22
 - [Akční nabídky na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/akcni-nabidky): Akční nabídky na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-01-22T12:20:01Z
+  Updated: 2026-01-23T12:19:53Z
   Total Products: 57
 - [Operativní leasing Renault | Driveto.cz](https://www.driveto.cz/collections/renault): Operativní leasing Renault pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2026-01-22T12:20:01Z
@@ -3555,23 +3705,23 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2026-01-22T12:20:01Z
   Total Products: 2
 - [Osobní vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/osobni-vozy): Osobní vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-01-22T23:14:21Z
-  Total Products: 212
+  Updated: 2026-01-23T20:10:11Z
+  Total Products: 213
 - [Plug-in vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/plug-in): Plug-in vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-01-22T12:20:01Z
+  Updated: 2026-01-23T12:19:53Z
   Total Products: 7
 - [Mild hybridy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/mild-hybrid): Mild hybridy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2026-01-13T16:20:11Z
   Total Products: 5
 - [Operativní leasing se zimními pneumatikami | Driveto.cz](https://www.driveto.cz/collections/vcetne-zimnich-pneumatik): Operativní leasing se zimními pneumatikami pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-01-18T12:18:52Z
+  Updated: 2026-01-23T12:19:53Z
   Total Products: 2
 - [Operativní leasing Maxus | Driveto.cz](https://www.driveto.cz/collections/maxus): Operativní leasing Maxus pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2026-01-13T16:20:11Z
   Total Products: 0
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/all): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2026-01-22T23:14:21Z
-  Total Products: 210
+  Updated: 2026-01-23T20:10:11Z
+  Total Products: 211
 - [Operativní leasing Opel | Driveto.cz](https://www.driveto.cz/collections/opel): Operativní leasing Opel pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2026-01-20T12:21:27Z
   Total Products: 2
@@ -3582,7 +3732,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2026-01-13T16:20:11Z
   Total Products: 0
 - [Novoroční výprodej](https://www.driveto.cz/collections/vyprodej): Novoroční výprodej aut na operativní leasing za nejlepší ceny. Žádné dlouhé čekací lhůty a složité podmínky - prostě si vyberte, podepíšete smlouvu a jezdíte.
-  Updated: 2026-01-22T12:20:01Z
+  Updated: 2026-01-23T12:19:53Z
   Total Products: 38
 
 ## Blogs
